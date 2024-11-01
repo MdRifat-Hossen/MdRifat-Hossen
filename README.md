@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdrifat-hossen" alt="mdrifat-hossen" /></a> </p>
 
-- 🌱 I’m currently learning **Front-End Developer,Softwere Developer.**
+- 🌱 I’m currently learning **Machine Learning and Deep learning with Computer Vision.**
 
-- 📫 How to reach me **mrh119279@gmail.com**
+- 📫 How to reach me **rifat.pust.ice14@gmail.com**
 
 - ⚡ Fun fact **I am serious.**
 
